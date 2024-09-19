@@ -1,7 +1,7 @@
 {
-  "name": "demo-app",
+  "name": "ftp_server",
   "version": "1.0.0",
-  "description": "Aplicacion MVC demo",
+  "description": "servidor_ftp",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
